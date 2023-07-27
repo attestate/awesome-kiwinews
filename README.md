@@ -55,6 +55,14 @@ Daily newsletter
 
 [https://kiwinews.lol/api/feed/new](https://kiwinews.lol/api/feed/new)
 
+### Stickers Design
+
+QR Code Kiwi Sticker
+[Link](https://drive.google.com/file/d/1gqYk6IOkyox_ia3-EvoIdsejk7mDh0J-/view?usp=drive_link)
+
+Impish Kiwi Sticker:
+[Link](https://drive.google.com/file/d/1ldAjyrLTT26GGvTJn14zB8NGube94Wyn/view?usp=drive_link)
+
 ### Contributors
 
 **timdaub - co-founder**
@@ -96,5 +104,7 @@ Kiwi profile, Farcaster profile
 **cypherr - worked on a fc bot**
 
 Kiwi profile, Farcaster profile
+
+**& over 100 other [community members](https://news.kiwistand.com/community) who every day curate Kiwi feed and help us make the project better**
 
 
