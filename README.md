@@ -7,17 +7,31 @@ A collection of awesome Kiwi News links, including clients, APIs, and more.
 
 [Kiwi News client by freeatnet](https://kiwinews.lol/)
 
-**Social profiles**
+**API**
 
-[Twitter profile](https://twitter.com/KiwiNewsHQ)
-
-[Farcaster profile](https://warpcast.com/kiwi)
+[KiwiNews API](https://attestate.com/kiwistand/main/)
 
 **Apps & Bots**
 
 [Kiwi Search by matallo](https://kiwinews.phyles.app/)
 
 [Eatkiwi](https://warpcast.com/eatkiwi)
+
+**Social profiles**
+
+[Twitter profile](https://twitter.com/KiwiNewsHQ)
+
+[Farcaster profile](https://warpcast.com/kiwi)
+
+**Newsletters & RSS**
+
+[Weekly newsletter](https://paragraph.xyz/@kiwi-weekly)
+
+[Daily newsletter](https://paragraph.xyz/@kiwi-daily)
+
+['Hot' RSS feed by freeatnet](https://kiwinews.lol/api/feed/top)
+
+['New' RSS feed by freeatnet](https://kiwinews.lol/api/feed/new)
 
 **Contributors**
 
