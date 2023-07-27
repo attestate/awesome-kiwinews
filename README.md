@@ -1,7 +1,7 @@
 # awesome-kiwinews
 A collection of awesome Kiwi News links, including clients, APIs, and more.
 
-###Clients
+### Clients
 
 Kiwi News client by timdaub & mac
 
