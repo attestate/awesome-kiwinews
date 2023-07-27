@@ -27,6 +27,10 @@ Eatkiwi bot by seanhart
 
 [https://warpcast.com/eatkiwi](https://warpcast.com/eatkiwi)
 
+Kiwi Chrome Extension
+
+[Link](https://chrome.google.com/webstore/detail/kiwi-news-chrome-extensio/ifchjojjeocdanjhhmbihapfjokljllc)
+
 ### Social profiles
 
 Twitter profile
