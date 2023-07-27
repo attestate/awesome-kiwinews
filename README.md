@@ -9,7 +9,7 @@ Kiwi News client by timdaub & mac
 
 Kiwi News client by freeatnet
 
-[https://kiwinews.lol/](https://kiwinews.lol/)
+[kiwinews.lol](https://kiwinews.lol/)
 
 ### API
 
