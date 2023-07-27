@@ -55,12 +55,14 @@ Daily newsletter
 
 [https://kiwinews.lol/api/feed/new](https://kiwinews.lol/api/feed/new)
 
-### Stickers Design
+### Kiwi Stickers (feel free to print!)
 
 QR Code Kiwi Sticker
+
 [Link](https://drive.google.com/file/d/1gqYk6IOkyox_ia3-EvoIdsejk7mDh0J-/view?usp=drive_link)
 
-Impish Kiwi Sticker:
+Impish Kiwi Sticker
+
 [Link](https://drive.google.com/file/d/1ldAjyrLTT26GGvTJn14zB8NGube94Wyn/view?usp=drive_link)
 
 ### Contributors
