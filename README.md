@@ -11,13 +11,13 @@ Kiwi News client by freeatnet
 
 [https://kiwinews.lol/](https://kiwinews.lol/)
 
-**API**
+### API
 
 KiwiNews API
 
 [https://attestate.com/kiwistand/main/](https://attestate.com/kiwistand/main/)
 
-**Apps & Bots**
+### Apps & Bots
 
 Kiwi Search by matallo
 
@@ -27,7 +27,7 @@ Eatkiwi bot by seanhart
 
 [https://warpcast.com/eatkiwi](https://warpcast.com/eatkiwi)
 
-**Social profiles**
+### Social profiles
 
 Twitter profile
 
@@ -37,7 +37,7 @@ Farcaster profile
 
 [https://warpcast.com/kiwi](https://warpcast.com/kiwi)
 
-**Newsletters & RSS**
+### Newsletters & RSS
 
 Weekly newsletter
 
@@ -55,7 +55,7 @@ Daily newsletter
 
 [https://kiwinews.lol/api/feed/new](https://kiwinews.lol/api/feed/new)
 
-**Contributors**
+### Contributors
 
 **timdaub - co-founder**
 
