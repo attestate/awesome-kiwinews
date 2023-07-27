@@ -29,7 +29,7 @@ Eatkiwi bot by seanhart
 
 Kiwi Chrome Extension
 
-[Link](https://chrome.google.com/webstore/detail/kiwi-news-chrome-extensio/ifchjojjeocdanjhhmbihapfjokljllc)
+[https://chrome.google.com/webstore/detail/kiwi-news-chrome-extensio/ifchjojjeocdanjhhmbihapfjokljllc](https://chrome.google.com/webstore/detail/kiwi-news-chrome-extensio/ifchjojjeocdanjhhmbihapfjokljllc)
 
 ### Social profiles
 
