@@ -3,35 +3,57 @@ A collection of awesome Kiwi News links, including clients, APIs, and more.
 
 **Clients**
 
-[Kiwi News client by timdaub & mac](kiwinews.xyz)
+Kiwi News client by timdaub & mac
 
-[Kiwi News client by freeatnet](https://kiwinews.lol/)
+[kiwinews.xyz](kiwinews.xyz)
+
+Kiwi News client by freeatnet
+
+[https://kiwinews.lol/](https://kiwinews.lol/)
 
 **API**
 
-[KiwiNews API](https://attestate.com/kiwistand/main/)
+KiwiNews API
+
+[https://attestate.com/kiwistand/main/](https://attestate.com/kiwistand/main/)
 
 **Apps & Bots**
 
-[Kiwi Search by matallo](https://kiwinews.phyles.app/)
+Kiwi Search by matallo
 
-[Eatkiwi](https://warpcast.com/eatkiwi)
+[https://kiwinews.phyles.app/](https://kiwinews.phyles.app/)
+
+Eatkiwi bot by seanhart
+
+[https://warpcast.com/eatkiwi](https://warpcast.com/eatkiwi)
 
 **Social profiles**
 
-[Twitter profile](https://twitter.com/KiwiNewsHQ)
+Twitter profile
 
-[Farcaster profile](https://warpcast.com/kiwi)
+[https://twitter.com/KiwiNewsHQ](https://twitter.com/KiwiNewsHQ)
+
+Farcaster profile
+
+[https://warpcast.com/kiwi](https://warpcast.com/kiwi)
 
 **Newsletters & RSS**
 
-[Weekly newsletter](https://paragraph.xyz/@kiwi-weekly)
+Weekly newsletter
 
-[Daily newsletter](https://paragraph.xyz/@kiwi-daily)
+[https://paragraph.xyz/@kiwi-weekly](https://paragraph.xyz/@kiwi-weekly)
 
-['Hot' RSS feed by freeatnet](https://kiwinews.lol/api/feed/top)
+Daily newsletter
 
-['New' RSS feed by freeatnet](https://kiwinews.lol/api/feed/new)
+[https://paragraph.xyz/@kiwi-daily](https://paragraph.xyz/@kiwi-daily)
+
+'Hot' RSS feed by freeatnet
+
+[https://kiwinews.lol/api/feed/top](https://kiwinews.lol/api/feed/top)
+
+'New' RSS feed by freeatnet
+
+[https://kiwinews.lol/api/feed/new](https://kiwinews.lol/api/feed/new)
 
 **Contributors**
 
