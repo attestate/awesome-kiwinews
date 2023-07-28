@@ -1,6 +1,10 @@
 # awesome-kiwinews
 A collection of awesome Kiwi News links, including clients, APIs, and more.
 
+### What is Kiwi
+
+[https://kanfa.macbudkowski.com/what-is-kiwi](https://kanfa.macbudkowski.com/what-is-kiwi)
+
 ### Clients
 
 Kiwi News client by timdaub & mac
