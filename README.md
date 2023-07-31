@@ -73,7 +73,7 @@ Impish Kiwi Sticker
 
 [Link](https://drive.google.com/file/d/1ldAjyrLTT26GGvTJn14zB8NGube94Wyn/view?usp=drive_link)
 
-### Contributors
+### Most active contributors
 
 **timdaub - co-founder**
 
