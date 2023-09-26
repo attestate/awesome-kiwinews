@@ -63,15 +63,11 @@ Daily newsletter
 
 [https://kiwinews.lol/api/feed/new](https://kiwinews.lol/api/feed/new)
 
-### Kiwi Stickers (feel free to print!)
+### Kiwi Brand Assets (feel free to use and print!)
 
-QR Code Kiwi Sticker
+Logos, stickers, meetup promo visuals, etc.
 
-[Link](https://drive.google.com/file/d/1gqYk6IOkyox_ia3-EvoIdsejk7mDh0J-/view?usp=drive_link)
-
-Impish Kiwi Sticker
-
-[Link](https://drive.google.com/file/d/1ldAjyrLTT26GGvTJn14zB8NGube94Wyn/view?usp=drive_link)
+[Link](https://drive.google.com/drive/folders/1vH5vEcXCsbbrYfCpTIvimLSzDMgq1eIa)
 
 ### Most active contributors
 
