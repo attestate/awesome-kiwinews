@@ -5,6 +5,9 @@ A collection of awesome Kiwi News links, including clients, APIs, and more.
 
 [https://kanfa.macbudkowski.com/what-is-kiwi](https://kanfa.macbudkowski.com/what-is-kiwi)
 
+### Repos
+[Kiwinews protocol node repo](https://github.com/attestate/kiwistand)
+
 ### Clients
 
 Kiwi News client by timdaub & mac
