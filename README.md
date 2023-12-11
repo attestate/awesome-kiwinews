@@ -1,5 +1,5 @@
 # awesome-kiwinews
-A collection of awesome Kiwi News links, including clients, APIs, and more.
+A collection of awesome Kiwi links, including clients, apps, APIs, and more.
 
 ### What is Kiwi
 
